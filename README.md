@@ -17,7 +17,7 @@
 ## 🎓 About Me
 
 🎯 **Frontend Developer** passionate about creating engaging web experiences  
-📚 **1st Year Student** at Faculty of Computers & Artificial Intelligence - Sphinx University  
+📚 **1st Year Student** at Faculty of Computers & Artificial Intelligence - Assiut National University  
 🌟 Currently exploring the fascinating world of web development and AI  
 💡 Always eager to learn new technologies and improve my skills
 
