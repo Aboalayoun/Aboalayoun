@@ -45,18 +45,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kali-upper&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kali-upper&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kali-upper&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
 
 ## 📈 Activity Graph
 
@@ -84,7 +72,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.facebook.com/profile.php?id=61578407231407" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=61558539080140" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://t.me/ACYRO0016K" target="_blank">
