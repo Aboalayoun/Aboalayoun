@@ -2,6 +2,9 @@
 
 <div align="center">
   <img src="https://media.tenor.com/n53f5g-plM0AAAAj/emo.gif" width="150" height="150" alt="Working Tenor GIF" />
+  <img src="https://media.tenor.com/Klzqm1DesDgAAAAi/hi-emo.gif" width="150" height="150" alt="Working Tenor GIF" />
+  <!-- <img src="https://media.tenor.com/MwJOg6YvmWEAAAAi/emo-robot-is-coming-discord.gif" width="150" height="150" alt="Working Tenor GIF" /> -->
+  <!-- <img src="https://media.tenor.com/GB17hfl_I_wAAAAm/yeah-emo.webp" width="150" height="150" alt="Working Tenor GIF" /> -->
 </div>
 
 <div align="center">
