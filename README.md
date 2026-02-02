@@ -66,7 +66,7 @@
   <a href="https://x.com/AHME0016K" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://www.youtube.com/@FOTETUBE" target="_blank">
+  <a href="https://www.youtube.com/channel/UCmfp_B-hOFq4UW5g1T4LCvQ?sub_confirmation=1" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="mailto:ahmedaboalayoun@gmail.com" target="_blank">
