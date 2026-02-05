@@ -1,4 +1,4 @@
-# 👨‍💻 Aboalayoun
+# 👨‍💻 FOTE
 
 <div align="center">
   <img src="https://media.tenor.com/n53f5g-plM0AAAAj/emo.gif" width="150" height="150" alt="Working Tenor GIF" />
@@ -19,9 +19,12 @@
 
 ## 🎓 About Me
 
-🎯 **Frontend Developer** passionate about creating engaging web experiences  
-📚 **1st Year Student** at Faculty of Computers & Artificial Intelligence - Assiut National University  
-🌟 Currently exploring the fascinating world of web development and AI  
+🎯 **Frontend Developer** passionate about creating engaging web experiences
+
+💾 **Learned Supabase Integration** through building a comprehensive learning platform (Masar X) - mastering database operations, authentication, file storage, and real-time features
+
+🌟 Currently exploring the fascinating world of web development and AI
+
 💡 Always eager to learn new technologies and improve my skills
 
 ---
@@ -60,16 +63,16 @@
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="www.linkedin.com/in/aboalayoun" target="_blank">
+  <a href="https://www.linkedin.com/in/aboalayoun" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/AHME0016K" target="_blank">
+  <a href="https://x.com/FoteTeam" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://www.youtube.com/channel/UCmfp_B-hOFq4UW5g1T4LCvQ?sub_confirmation=1" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="mailto:ahmedaboalayoun@gmail.com" target="_blank">
+  <a href="mailto:ai.pstg1@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
@@ -93,5 +96,5 @@
 </div>
 
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/Aboalayoun">Ahmed</a> with ❤️</i>
+  <i>⭐️ From <a href="https://github.com/Aboalayoun">FOTE</a> with ❤️</i>
 </p>
