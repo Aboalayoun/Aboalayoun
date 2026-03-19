@@ -80,7 +80,7 @@
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Socials
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aboalayoun" target="_blank">
