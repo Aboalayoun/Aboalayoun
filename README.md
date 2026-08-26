@@ -92,23 +92,18 @@ I am a **Full-Stack AI Engineer** specializing in bridging the gap between Large
 
   <!-- GitHub Stats & Streak -->
   <a href="https://github.com/fotedev">
-    <img src="https://github-readme-stats.vercel.app/api?username=fotedev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=22D3EE&text_color=94A3B8&icon_color=3B82F6&bg_color=0A0E1A" height="165" alt="FOTE's GitHub Stats" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=fotedev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=22D3EE&text_color=94A3B8&icon_color=3B82F6&bg_color=0A0E1A" height="165" alt="FOTE's GitHub Stats" />
   </a>
   <a href="https://github.com/fotedev">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fotedev&theme=tokyonight&hide_border=true&stroke=22D3EE&background=0A0E1A&ring=3B82F6&fire=22D3EE&currStreakLabel=22D3EE" height="165" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=fotedev&theme=tokyonight&hide_border=true&stroke=22D3EE&background=0A0E1A&ring=3B82F6&fire=22D3EE&currStreakLabel=22D3EE" height="165" alt="GitHub Streak" />
   </a>
 
   <br/><br/>
 
   <!-- Top Languages -->
   <a href="https://github.com/fotedev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fotedev&layout=compact&theme=tokyonight&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A0E1A" height="140" alt="Top Languages" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fotedev&layout=compact&theme=tokyonight&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A0E1A" height="140" alt="Top Languages" />
   </a>
-
-  <br/><br/>
-
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fotedev&theme=tokyo-night&hide_border=true&bg_color=0A0E1A&color=22D3EE&line=3B82F6&point=10B981" alt="Activity Graph" width="95%" />
 
 </div>
 
