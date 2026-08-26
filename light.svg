@@ -334,107 +334,107 @@
         <g transform="translate(0,32.5)" opacity="0">
           <animate attributeName="opacity" begin="0.40s" dur="0.4s" from="0" to="1" fill="freeze"/>
           <text font-family="'JetBrains Mono',monospace" font-size="14.5">
-            <tspan fill="#2563EB" font-weight="700">Subject</tspan><tspan fill="#64748B">:</tspan><tspan fill="#B9C3D4"> ................... </tspan><tspan fill="#0F172A">FOTE</tspan>
+            <tspan fill="#2563EB" font-weight="700">Subject</tspan><tspan fill="#64748B">:</tspan><tspan fill="#B9C3D4"> ................... </tspan><tspan fill="#0F172A">FOTE (Ahmed)</tspan>
           </text>
         </g>
         <g transform="translate(0,57.5)" opacity="0">
           <animate attributeName="opacity" begin="0.53s" dur="0.4s" from="0" to="1" fill="freeze"/>
           <text font-family="'JetBrains Mono',monospace" font-size="14.5">
-            <tspan fill="#2563EB" font-weight="700">Role</tspan><tspan fill="#64748B">:</tspan><tspan fill="#B9C3D4"> ... </tspan><tspan fill="#0F172A">AI Engineering Student · Building Masar X</tspan>
+            <tspan fill="#2563EB" font-weight="700">Role</tspan><tspan fill="#64748B">:</tspan><tspan fill="#B9C3D4"> ...................... </tspan><tspan fill="#0F172A">Full-Stack AI Engineer</tspan>
           </text>
         </g>
         <g transform="translate(0,82.5)" opacity="0">
           <animate attributeName="opacity" begin="0.66s" dur="0.4s" from="0" to="1" fill="freeze"/>
           <text font-family="'JetBrains Mono',monospace" font-size="14.5">
-            <tspan fill="#2563EB" font-weight="700">Origin</tspan><tspan fill="#64748B">:</tspan><tspan fill="#B9C3D4"> ... </tspan><tspan fill="#0F172A">Remote</tspan>
+            <tspan fill="#2563EB" font-weight="700">Focus</tspan><tspan fill="#64748B">:</tspan><tspan fill="#B9C3D4"> ..................... </tspan><tspan fill="#0F172A">Scalable GenAI &amp; Production RAG</tspan>
           </text>
         </g>
         <g transform="translate(0,107.5)" opacity="0">
           <animate attributeName="opacity" begin="0.79s" dur="0.4s" from="0" to="1" fill="freeze"/>
           <text font-family="'JetBrains Mono',monospace" font-size="14.5">
-            <tspan fill="#2563EB" font-weight="700">Education</tspan><tspan fill="#64748B">:</tspan><tspan fill="#B9C3D4"> ... </tspan><tspan fill="#0F172A">Self-taught · Always Learning</tspan>
+            <tspan fill="#2563EB" font-weight="700">Project</tspan><tspan fill="#64748B">:</tspan><tspan fill="#B9C3D4"> ................... </tspan><tspan fill="#0F172A">Masar X (AI Study Ecosystem)</tspan>
           </text>
         </g>
         <g transform="translate(0,132.5)" opacity="0">
           <animate attributeName="opacity" begin="0.92s" dur="0.4s" from="0" to="1" fill="freeze"/>
           <text font-family="'JetBrains Mono',monospace" font-size="14.5">
-            <tspan fill="#2563EB" font-weight="700">Status</tspan><tspan fill="#64748B">:</tspan><tspan fill="#B9C3D4"> ... </tspan><tspan fill="#0F172A">Building • Learning • Shipping in Public</tspan>
+            <tspan fill="#2563EB" font-weight="700">Status</tspan><tspan fill="#64748B">:</tspan><tspan fill="#B9C3D4"> .................... </tspan><tspan fill="#0F172A">Building • Shipping in Public</tspan>
           </text>
         </g>
         <g transform="translate(0,157.5)" opacity="0">
           <animate attributeName="opacity" begin="1.05s" dur="0.4s" from="0" to="1" fill="freeze"/>
           <text font-family="'JetBrains Mono',monospace" font-size="14.5">
-            <tspan fill="#2563EB" font-weight="700">ToolChain</tspan><tspan fill="#64748B">:</tspan><tspan fill="#B9C3D4"> ... </tspan><tspan fill="#0F172A">VS Code, Git, GitHub, Vercel</tspan>
+            <tspan fill="#2563EB" font-weight="700">ToolChain</tspan><tspan fill="#64748B">:</tspan><tspan fill="#B9C3D4"> ................. </tspan><tspan fill="#0F172A">VS Code, Git, Docker, Linux, Vercel</tspan>
           </text>
         </g>
         <g transform="translate(0,192.5)" opacity="0">
           <animate attributeName="opacity" begin="1.28s" dur="0.4s" from="0" to="1" fill="freeze"/>
           <text font-family="'JetBrains Mono',monospace" font-size="14.5">
-            <tspan fill="#2563EB" font-weight="700">Core.Lang</tspan><tspan fill="#64748B">:</tspan><tspan fill="#B9C3D4"> ... </tspan><tspan fill="#0F172A">JavaScript, TypeScript</tspan>
+            <tspan fill="#2563EB" font-weight="700">AI.Stack</tspan><tspan fill="#64748B">:</tspan><tspan fill="#B9C3D4"> .................. </tspan><tspan fill="#0F172A">RAG, MCP, pgvector, LangChain</tspan>
           </text>
         </g>
         <g transform="translate(0,217.5)" opacity="0">
           <animate attributeName="opacity" begin="1.41s" dur="0.4s" from="0" to="1" fill="freeze"/>
           <text font-family="'JetBrains Mono',monospace" font-size="14.5">
-            <tspan fill="#2563EB" font-weight="700">Core.Frontend</tspan><tspan fill="#64748B">:</tspan><tspan fill="#B9C3D4"> ... </tspan><tspan fill="#0F172A">React, Next.js, Tailwind, HTML, CSS</tspan>
+            <tspan fill="#2563EB" font-weight="700">Core.Lang</tspan><tspan fill="#64748B">:</tspan><tspan fill="#B9C3D4"> ................. </tspan><tspan fill="#0F172A">TypeScript, Python, JavaScript</tspan>
           </text>
         </g>
         <g transform="translate(0,242.5)" opacity="0">
           <animate attributeName="opacity" begin="1.54s" dur="0.4s" from="0" to="1" fill="freeze"/>
           <text font-family="'JetBrains Mono',monospace" font-size="14.5">
-            <tspan fill="#2563EB" font-weight="700">Core.Backend</tspan><tspan fill="#64748B">:</tspan><tspan fill="#B9C3D4"> ... </tspan><tspan fill="#0F172A">Node.js, REST APIs</tspan>
+            <tspan fill="#2563EB" font-weight="700">Core.UI/UX</tspan><tspan fill="#64748B">:</tspan><tspan fill="#B9C3D4"> ................ </tspan><tspan fill="#0F172A">Next.js, React, Tailwind, Framer</tspan>
           </text>
         </g>
         <g transform="translate(0,267.5)" opacity="0">
           <animate attributeName="opacity" begin="1.67s" dur="0.4s" from="0" to="1" fill="freeze"/>
           <text font-family="'JetBrains Mono',monospace" font-size="14.5">
-            <tspan fill="#2563EB" font-weight="700">Core.Database</tspan><tspan fill="#64748B">:</tspan><tspan fill="#B9C3D4"> ................ </tspan><tspan fill="#0F172A">Supabase, PostgreSQL</tspan>
+            <tspan fill="#2563EB" font-weight="700">Core.Data</tspan><tspan fill="#64748B">:</tspan><tspan fill="#B9C3D4"> ................. </tspan><tspan fill="#0F172A">Supabase, PostgreSQL, FastAPI</tspan>
           </text>
         </g>
         <g transform="translate(0,292.5)" opacity="0">
           <animate attributeName="opacity" begin="1.80s" dur="0.4s" from="0" to="1" fill="freeze"/>
           <text font-family="'JetBrains Mono',monospace" font-size="14.5">
-            <tspan fill="#2563EB" font-weight="700">Core.Infra</tspan><tspan fill="#64748B">:</tspan><tspan fill="#B9C3D4"> ................... </tspan><tspan fill="#0F172A">Vercel, Git, Supabase</tspan>
+            <tspan fill="#2563EB" font-weight="700">Core.App</tspan><tspan fill="#64748B">:</tspan><tspan fill="#B9C3D4"> .................. </tspan><tspan fill="#0F172A">Web, Electron (Desktop), Multi-Platform</tspan>
           </text>
         </g>
       <g transform="translate(0,325.0)" opacity="0">
         <animate attributeName="opacity" begin="2.03s" dur="0.4s" from="0" to="1" fill="freeze"/>
-        <text font-family="'JetBrains Mono',monospace" font-size="15.5" font-weight="700" fill="#059669">- Contact</text>
-        <line x1="118" y1="-6" x2="662" y2="-6" stroke="rgba(15,23,42,.10)" stroke-width="1" stroke-dasharray="2,3"/>
+        <text font-family="'JetBrains Mono',monospace" font-size="15.5" font-weight="700" fill="#059669">- Direct Channels</text>
+        <line x1="175" y1="-6" x2="662" y2="-6" stroke="rgba(15,23,42,.10)" stroke-width="1" stroke-dasharray="2,3"/>
       </g>
         <g transform="translate(0,355.0)" opacity="0">
           <animate attributeName="opacity" begin="2.18s" dur="0.4s" from="0" to="1" fill="freeze"/>
           <text font-family="'JetBrains Mono',monospace" font-size="14.5">
-            <tspan fill="#2563EB" font-weight="700">Grid.Mail</tspan><tspan fill="#64748B">:</tspan><tspan fill="#B9C3D4"> ... </tspan><tspan fill="#0F172A">ai.pstg1@gmail.com</tspan>
+            <tspan fill="#2563EB" font-weight="700">Grid.Mail</tspan><tspan fill="#64748B">:</tspan><tspan fill="#B9C3D4"> ................. </tspan><tspan fill="#0F172A">fote.engineer@gmail.com</tspan>
           </text>
         </g>
         <g transform="translate(0,380.0)" opacity="0">
           <animate attributeName="opacity" begin="2.31s" dur="0.4s" from="0" to="1" fill="freeze"/>
           <text font-family="'JetBrains Mono',monospace" font-size="14.5">
-            <tspan fill="#2563EB" font-weight="700">Grid.Portfolio</tspan><tspan fill="#64748B">:</tspan><tspan fill="#B9C3D4"> ............... </tspan><tspan fill="#0F172A">fotedev</tspan>
+            <tspan fill="#2563EB" font-weight="700">Grid.LinkedIn</tspan><tspan fill="#64748B">:</tspan><tspan fill="#B9C3D4"> ............. </tspan><tspan fill="#0F172A">linkedin.com/in/fotedev</tspan>
           </text>
         </g>
         <g transform="translate(0,405.0)" opacity="0">
           <animate attributeName="opacity" begin="2.44s" dur="0.4s" from="0" to="1" fill="freeze"/>
           <text font-family="'JetBrains Mono',monospace" font-size="14.5">
-            <tspan fill="#2563EB" font-weight="700">Grid.LinkedIn</tspan><tspan fill="#64748B">:</tspan><tspan fill="#B9C3D4"> ... </tspan><tspan fill="#0F172A">fotedev</tspan>
+            <tspan fill="#2563EB" font-weight="700">Grid.Github</tspan><tspan fill="#64748B">:</tspan><tspan fill="#B9C3D4"> ............... </tspan><tspan fill="#0F172A">github.com/fotedev</tspan>
           </text>
         </g>
         <g transform="translate(0,430.0)" opacity="0">
           <animate attributeName="opacity" begin="2.57s" dur="0.4s" from="0" to="1" fill="freeze"/>
           <text font-family="'JetBrains Mono',monospace" font-size="14.5">
-            <tspan fill="#2563EB" font-weight="700">Grid.Github</tspan><tspan fill="#64748B">:</tspan><tspan fill="#B9C3D4"> .................. </tspan><tspan fill="#0F172A">fotedev</tspan>
+            <tspan fill="#2563EB" font-weight="700">Grid.Twitter</tspan><tspan fill="#64748B">:</tspan><tspan fill="#B9C3D4"> .............. </tspan><tspan fill="#0F172A">x.com/FoteTeam</tspan>
           </text>
         </g>
       <g transform="translate(0,465.0)" opacity="0">
         <animate attributeName="opacity" begin="2.80s" dur="0.4s" from="0" to="1" fill="freeze"/>
-        <text font-family="'JetBrains Mono',monospace" font-size="15.5" font-weight="700" fill="#059669">- Live Stats</text>
-        <line x1="150" y1="-6" x2="662" y2="-6" stroke="rgba(15,23,42,.10)" stroke-width="1" stroke-dasharray="2,3"/>
+        <text font-family="'JetBrains Mono',monospace" font-size="15.5" font-weight="700" fill="#059669">- Production Architecture</text>
+        <line x1="250" y1="-6" x2="662" y2="-6" stroke="rgba(15,23,42,.10)" stroke-width="1" stroke-dasharray="2,3"/>
       </g>
       <g transform="translate(0,495.0)" opacity="0">
         <animate attributeName="opacity" begin="2.95s" dur="0.4s" from="0" to="1" fill="freeze"/>
         <rect x="0" y="-13" width="5" height="18" fill="#06B6D4"/>
-        <text x="14" y="1" font-family="'JetBrains Mono',monospace" font-size="14.5" fill="#0F172A">See live GitHub stats badges below in README ↓</text>
+        <text x="14" y="1" font-family="'JetBrains Mono',monospace" font-size="14.5" fill="#0F172A">Explore repositories, live demos &amp; systems below ↓</text>
       </g>
   </g>
 </svg>
